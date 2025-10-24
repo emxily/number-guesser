@@ -27,6 +27,7 @@ The game starts by generating a random number 1 - 100 to be guessed by both the 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
+* Java 8+
 
 ## Installing
 

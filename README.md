@@ -82,6 +82,6 @@ Too Low
 
 **Author:** Emily Nowak
 
-*Based on **Program 1** by **Professor Stephen Harris** for CSC222: Object-Oriented Programming with Java at Tidewater Community College
+*Based on **Program 1** by **Professor Stephen Harris** for CSC222: Object-Oriented Programming with Java at Tidewater Community College*
 
 <br />
